@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Hello world");
         int a = 2;
         int d = 3;
+        int c = 5;
 
         Scanner s = new Scanner(System.in);
 
